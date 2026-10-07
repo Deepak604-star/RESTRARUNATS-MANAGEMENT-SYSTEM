@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Paneer Butter Masala",
+        "category": "North Indian",
+        "half_price": 120,
+        "full_price": 220
+    },
+    {
+        "id": 2,
+        "name": "Dal Makhani",
+        "category": "North Indian",
+        "half_price": 100,
+        "full_price": 180
+    },
+    {
+        "id": 3,
+        "name": "Veg Biryani",
+        "category": "Rice",
+        "half_price": 100,
+        "full_price": 180
+    },
+    {
+        "id": 4,
+        "name": "Chicken Biryani",
+        "category": "Non-Veg",
+        "half_price": 150,
+        "full_price": 280
+    },
+    {
+        "id": 5,
+        "name": "Masala Dosa",
+        "category": "South Indian",
+        "half_price": 70,
+        "full_price": 120
+    },
+    {
+        "id": 6,
+        "name": "Paneer Tikka",
+        "category": "Starter",
+        "half_price": 140,
+        "full_price": 250
+    },
+    {
+        "id": 7,
+        "name": "Butter Naan",
+        "category": "Bread",
+        "half_price": 40,
+        "full_price": 70
+    },
+    {
+        "id": 8,
+        "name": "Cold Coffee",
+        "category": "Beverage",
+        "half_price": 80,
+        "full_price": 120
+    }
+]
